@@ -1,0 +1,7 @@
+{
+  "name": "loop-action",
+  "version": "0.1.0",
+  "description": "Make every scheduled agent report end with one next action.",
+  "author": {"name": "ravsau", "url": "https://github.com/ravsau"},
+  "license": "MIT"
+}

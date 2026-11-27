@@ -1,0 +1,7 @@
+{
+  "name": "loop-action",
+  "owner": {"name": "ravsau"},
+  "plugins": [
+    {"name": "loop-action", "source": "./", "description": "Make every scheduled agent report end with one next action."}
+  ]
+}
